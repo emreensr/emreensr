@@ -96,9 +96,3 @@ I'm a Software Developer and I love learning new software development tools/tech
     </p>
   </div>
 </div>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreensr&show_icons=true&locale=en&layout=compact" alt="emreensr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emreensr&show_icons=true&locale=en" alt="emreensr" /></p>
