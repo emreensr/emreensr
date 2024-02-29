@@ -11,7 +11,7 @@ I'm a Software Developer and I love learning new software development tools/tech
     <p align="left">
       <kbd>
          <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="70" height="70"/>
+          <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="90" height="70"/>
         </a>
       </kbd>
       <kbd>
