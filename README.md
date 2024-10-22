@@ -2,7 +2,7 @@
 
 I'm a Software Developer and I love learning new software development tools/techniques.
 
-- 🏢 I’m currently working on **NGSI | NextGen Solution & Innovation**
+- 🏢 I’m currently working on **Parolapara**
 - 💻 Connect with me on  [Linkedin](https://linkedin.com/in/emre-ensar-capci)
 
 <h3 align="left">Languages and Tools:</h3>
